@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/skyrim-click-game/static/css/main.75c74e11.chunk.css",
+    "main.css": "/skyrim-click-game/static/css/main.0477c2ae.chunk.css",
     "main.js": "/skyrim-click-game/static/js/main.4e4f9eed.chunk.js",
     "main.js.map": "/skyrim-click-game/static/js/main.4e4f9eed.chunk.js.map",
     "runtime~main.js": "/skyrim-click-game/static/js/runtime~main.012b949c.js",
@@ -8,11 +8,9 @@
     "static/js/2.884c28c3.chunk.js": "/skyrim-click-game/static/js/2.884c28c3.chunk.js",
     "static/js/2.884c28c3.chunk.js.map": "/skyrim-click-game/static/js/2.884c28c3.chunk.js.map",
     "index.html": "/skyrim-click-game/index.html",
-    "precache-manifest.ea459df3346725d9489e1514b056bca6.js": "/skyrim-click-game/precache-manifest.ea459df3346725d9489e1514b056bca6.js",
+    "precache-manifest.9ec7bea2805e8f46d7ee4000141a0c1e.js": "/skyrim-click-game/precache-manifest.9ec7bea2805e8f46d7ee4000141a0c1e.js",
     "service-worker.js": "/skyrim-click-game/service-worker.js",
-    "static/css/main.75c74e11.chunk.css.map": "/skyrim-click-game/static/css/main.75c74e11.chunk.css.map",
-    "static/media/index.css": "/skyrim-click-game/static/media/background6.a614cf48.jpg",
-    "static/media/App.css": "/skyrim-click-game/static/media/header.1774af69.jpg",
-    "static/media/style.css": "/skyrim-click-game/static/media/old-paper-background.1eca2ed1.jpg"
+    "static/css/main.0477c2ae.chunk.css.map": "/skyrim-click-game/static/css/main.0477c2ae.chunk.css.map",
+    "static/media/index.css": "/skyrim-click-game/static/media/background6.a614cf48.jpg"
   }
 }

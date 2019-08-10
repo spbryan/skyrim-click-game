@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/skyrim-click-game/precache-manifest.ea459df3346725d9489e1514b056bca6.js"
+  "/skyrim-click-game/precache-manifest.9ec7bea2805e8f46d7ee4000141a0c1e.js"
 );
 
 self.addEventListener('message', (event) => {
