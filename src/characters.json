@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "image": "./images/aela.jpg",
+        "image": "./img/aela.jpg",
         "selected": false
     },
     {
         "id": 2,
-        "image": "./images/amalee.jpg",
+        "image": "./img/amalee.jpg",
         "selected": false
     },
     {
         "id": 3,
-        "image": "./images/astrid.jpg",
+        "image": "./img/astrid.jpg",
         "selected": false
     },
     {
         "id": 4,
-        "image": "./images/brynjolf.jpg",
+        "image": "./img/brynjolf.jpg",
         "selected": false
     },
     {
         "id": 5,
-        "image": "./images/cicero.jpg",
+        "image": "./img/cicero.jpg",
         "selected": false
     },
     {
         "id": 6,
-        "image": "./images/courier.jpg",
+        "image": "./img/courier.jpg",
         "selected": false
     },
     {
         "id": 7,
-        "image": "./images/golldir.jpg",
+        "image": "./img/golldir.jpg",
         "selected": false
     },
     {
         "id": 8,
-        "image": "./images/hadvar.jpg",
+        "image": "./img/hadvar.jpg",
         "selected": false
     },
     {
         "id": 9,
-        "image": "./images/mjol.jpg",
+        "image": "./img/mjol.jpg",
         "selected": false
     },
     {
         "id": 10,
-        "image": "./images/serana.jpg",
+        "image": "./img/serana.jpg",
         "selected": false
     },
     {
         "id": 11,
-        "image": "./images/vex.jpg",
+        "image": "./img/vex.jpg",
         "selected": false
     },
     {
         "id": 12,
-        "image": "./images/vilkas.jpg",
+        "image": "./img/vilkas.jpg",
         "selected": false
     }
 ]
