@@ -1,7 +1,7 @@
 .wrapper {
   padding-top: 100px;
   background: #ECEFF1;
-  /* background: url("../../images/old-paper-background.jpg");  */
+  background: url("../../images/old-paper-background.jpg"); 
   /* background-attachment: fixed; */
   background-size: cover;
   height: 100%;
